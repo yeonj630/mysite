@@ -1,3 +1,5 @@
 hahahaha
 it's so hard and confusing
 why it isn't working
+왜 안돼 왜 안돼
+왜 리포지토리 두 개를 remote 해서 사용 못하지
